@@ -2,6 +2,10 @@
 <p align="center">Creators of <b>uFlex</b> — IoT-powered rehabilitation system</p>
 
 <p align="center">
+  <img src="../assets/kiniot-brand-mark-original.png" alt="KinIoT logo" width="220">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-In--Development-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Focus-HealthTech-blue?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Origin-UPC-red?style=flat-square" alt="Origin">
