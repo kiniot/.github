@@ -38,7 +38,7 @@ Our solution is modular. Below are the core components of the **uFlex** ecosyste
 | [**uflex-clinic-web**](https://github.com/KinIoT/uflex-clinic-web)         | Web platform for clinics and rehabilitation professionals.          |
 | [**uflex-patient-mobile**](https://github.com/KinIoT/uflex-patient-mobile) | Mobile application for patient monitoring and therapy guidance.     |
 | [**uflex-rest-api**](https://github.com/KinIoT/uflex-rest-api)             | Main REST API handling core business logic and database management. |
-| [**uflex-edge-api**](https://github.com/KinIoT/uflex-edge-api)             | Edge computing API for optimized data pre-processing.               |
+| [**uflex-edge-gateway**](https://github.com/KinIoT/uflex-edge-gateway)     | Edge computing gateway for optimized data pre-processing.           |
 | [**uflex-embedded-app**](https://github.com/KinIoT/uflex-embedded-app)     | Embedded software for IoT devices and biomechanical sensors.        |
 
 > [!TIP]
