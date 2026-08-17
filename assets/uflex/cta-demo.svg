@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="160" viewBox="0 0 620 160" role="img" aria-labelledby="title desc">
+  <title id="title">Open the uFlex interactive demo</title>
+  <desc id="desc">Explore the clinical rehabilitation experience without an account</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08766F"/>
+      <stop offset="1" stop-color="#48CBB6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="616" height="156" rx="30" fill="url(#background)" stroke="#A3F3E7" stroke-width="3"/>
+  <circle cx="72" cy="80" r="40" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M63 61 88 80 63 99Z" fill="#FFFFFF"/>
+  <text x="126" y="70" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Open the interactive demo</text>
+  <text x="126" y="103" fill="#E7FFFB" font-family="Arial, Helvetica, sans-serif" font-size="18">Explore the clinical experience — no account required</text>
+  <circle cx="566" cy="80" r="28" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M554 80h23m-9-9 9 9-9 9" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
