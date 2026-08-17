@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="../assets/kiniot-brand-mark-original-tiny.png" alt="KinIoT" width="260">
+</p>
+
+<p align="center"><sub>KinIoT presents</sub></p>
+
+<p align="center">
   <img src="../assets/uflex/logo-uflex.svg" alt="uFlex" width="360">
 </p>
 
@@ -8,17 +14,12 @@
   KinIoT builds <b>uFlex</b>, an IoT telerehabilitation ecosystem that connects wearable motion sensors, edge computing, clinical workflows, and guided patient therapy.
 </p>
 
-<p align="center">
-  <a href="https://uflex-landing-page.vercel.app/"><b>Explore uFlex</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://uflex-clinic-web.vercel.app/sign-in?demo=1"><b>Open the interactive demo</b></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Development-48CBB6?style=flat-square" alt="Status: active development">
-  <img src="https://img.shields.io/badge/Focus-HealthTech-00566B?style=flat-square" alt="Focus: HealthTech">
-  <img src="https://img.shields.io/badge/Origin-UPC-C8102E?style=flat-square" alt="Origin: UPC">
-</p>
+<table>
+  <tr>
+    <td width="50%"><a href="https://uflex-landing-page.vercel.app/"><img src="../assets/uflex/cta-landing.svg" alt="Explore the uFlex landing page" width="100%"></a></td>
+    <td width="50%"><a href="https://uflex-clinic-web.vercel.app/sign-in?demo=1"><img src="../assets/uflex/cta-demo.svg" alt="Open the uFlex interactive demo" width="100%"></a></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="../assets/uflex/landing-hero.png" alt="uFlex connected rehabilitation platform" width="900">
@@ -64,14 +65,14 @@ Physiotherapists can coordinate active treatment plans, monitor adherence, and i
 
 | Repository | Role in uFlex | Tech stack |
 |:--|:--|:--|
-| [**uflex-landing-page**](https://github.com/KinIoT/uflex-landing-page) | Product story, benefits, technology, and plans. | Vite · Tailwind CSS · DaisyUI |
-| [**uflex-clinic-web**](https://github.com/KinIoT/uflex-clinic-web) | Clinical workspace for administrators and physiotherapists. | Angular · TypeScript · PrimeNG |
-| [**uflex-patient-mobile**](https://github.com/KinIoT/uflex-patient-mobile) | Guided Android rehabilitation and live kit feedback. | Kotlin · Jetpack Compose |
-| [**uflex-developer-web**](https://github.com/KinIoT/uflex-developer-web) | Internal fleet, inventory, fulfillment, and gateway operations. | React · Vite · shadcn/ui |
-| [**uflex-rest-api**](https://github.com/KinIoT/uflex-rest-api) | Core business capabilities and ecosystem integration. | Java · Spring Boot · PostgreSQL |
-| [**uflex-edge-gateway**](https://github.com/KinIoT/uflex-edge-gateway) | Local therapy context, movement processing, and reliable synchronization. | Python · Flask |
-| [**uflex-embedded-app**](https://github.com/KinIoT/uflex-embedded-app) | Wearable sensing, motion calculation, and local safety feedback. | C++ · ESP32 · PlatformIO |
-| [**uflex-final-report**](https://github.com/KinIoT/uflex-final-report) | Academic and architectural documentation for the complete project. | Markdown · Documentation |
+| [**uflex-landing-page**](https://github.com/KinIoT/uflex-landing-page) | Product story, benefits, technology, and plans. | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| [**uflex-clinic-web**](https://github.com/KinIoT/uflex-clinic-web) | Clinical workspace for administrators and physiotherapists. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**uflex-patient-mobile**](https://github.com/KinIoT/uflex-patient-mobile) | Guided Android rehabilitation and live kit feedback. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
+| [**uflex-developer-web**](https://github.com/KinIoT/uflex-developer-web) | Internal fleet, inventory, fulfillment, and gateway operations. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**uflex-rest-api**](https://github.com/KinIoT/uflex-rest-api) | Core business capabilities and ecosystem integration. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| [**uflex-edge-gateway**](https://github.com/KinIoT/uflex-edge-gateway) | Local therapy context, movement processing, and reliable synchronization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| [**uflex-embedded-app**](https://github.com/KinIoT/uflex-embedded-app) | Wearable sensing, motion calculation, and local safety feedback. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white) |
+| [**uflex-final-report**](https://github.com/KinIoT/uflex-final-report) | Academic and architectural documentation for the complete project. | ![Markdown](https://img.shields.io/badge/Markdown-Docs-000000?style=flat-square&logo=markdown&logoColor=white) |
 
 > [!TIP]
 > Start with the [live landing page](https://uflex-landing-page.vercel.app/) or enter the [Clinic Web demo](https://uflex-clinic-web.vercel.app/sign-in?demo=1) without creating an account.
